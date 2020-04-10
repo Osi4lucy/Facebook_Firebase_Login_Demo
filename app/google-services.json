@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1090096519876",
+    "firebase_url": "https://fir-hello-fad75.firebaseio.com",
+    "project_id": "fir-hello-fad75",
+    "storage_bucket": "fir-hello-fad75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090096519876:android:957b8eea00e5400b504791",
+        "android_client_info": {
+          "package_name": "com.solomon.emailandpasswordlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090096519876-fm7tr6n1i7ncr5lkip2uafi4oon932v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyfBTzGgDtmpr8tvT5oDo-qJlf4j__ng0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090096519876-fm7tr6n1i7ncr5lkip2uafi4oon932v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090096519876:android:50135b92cb04c808504791",
+        "android_client_info": {
+          "package_name": "com.solomon.loginappemailpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090096519876-fm7tr6n1i7ncr5lkip2uafi4oon932v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyfBTzGgDtmpr8tvT5oDo-qJlf4j__ng0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090096519876-fm7tr6n1i7ncr5lkip2uafi4oon932v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090096519876:android:ac821b7b09f5be2f504791",
+        "android_client_info": {
+          "package_name": "com.solomon.logindemofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090096519876-fm7tr6n1i7ncr5lkip2uafi4oon932v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyfBTzGgDtmpr8tvT5oDo-qJlf4j__ng0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090096519876-fm7tr6n1i7ncr5lkip2uafi4oon932v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090096519876:android:3ca9ba87f9992c22504791",
+        "android_client_info": {
+          "package_name": "com.solomon.loginfacebookfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090096519876-jl99374cdlm4jorqih20v3v322ih00a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solomon.loginfacebookfirebase",
+            "certificate_hash": "2a6833a168119eb54e2741e15b86da2ae2f7ee02"
+          }
+        },
+        {
+          "client_id": "1090096519876-fm7tr6n1i7ncr5lkip2uafi4oon932v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyfBTzGgDtmpr8tvT5oDo-qJlf4j__ng0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090096519876-fm7tr6n1i7ncr5lkip2uafi4oon932v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
